@@ -1,11 +1,11 @@
-## My Story:
-<p>I am a 36 year old US Army Veteran and Software Engineer. My development journey started with making video game addons and I've been working on continuing that journey ever since. After joining the military post 9/11, and spending time as a Correctional Officer, I decided to try my hand at software development. I completed a Full Stack Web Developer bootcamp in 2022, which helped me learn how to use a large variety of languages including HTML, CSS, JavaScript, Bootstrap, VueJS, NodeJS and C#. I also learned some backend database software such as MongoDB and MySQL. As of 2025 I am restarting my development journey with Python first.</p>
+## About Me:
+<p>I am a 38 year old U.S. Army Veteran. I like to tinker and learn how things work. In 2022, I completed a Full Stack Web Developer bootcamp where I learned a variety of languages such as HTML, JS, and some C#. In 2026, I decided to try my hand again at software development, and will be working on some projects in my off time. Follow along with me.</p>
 
 ## Stuff to know about me:
 <ul>
   <li>I've contributed to open-source repositories for games like World of Warcraft and Rust.</li>
   <li>I have 14 years experience in military(8) and law enforcement(6) fields.</li>
-  <li>I am a huge hockey fan. San Jose Sharks, Seattle Kraken & Idaho Steelheads.</li>
+  <li>I am a hockey fan. San Jose Sharks & Seattle Kraken.</li>
   <li>I am a video game player. I love exploring strange new worlds.</li>
   <li>I love gaming LAN parties and conventions.</li>
 </ul>
