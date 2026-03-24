@@ -5,7 +5,7 @@
   <li> 💻 I've contributed to open-source repositories for video games like World of Warcraft addons. Check my pins! 📌 </li>
   <li> 👾 I spend my down time playing video games. I also moderate and help organize a local LAN party every year. </li>
   <li> 🏒 I am a hockey fan. My favorite teams are the San Jose Sharks & Seattle Kraken. 🦈 </li>
-  <li> 🎓 Currently working my way through a backend dev curriculum on Boot.Dev 🐻 </li>
+  <li> 🎓 Currently working my way through a backend dev curriculum on Boot.Dev as of 03/2026. 🐻 </li>
 </ul>
 
 <details>
