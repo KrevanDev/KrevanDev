@@ -1,4 +1,4 @@
-# Hey there, I'm `Kyle`! 🙋‍♂️
+# Hey there, I'm `Kyle`! 💻🐒
 
 ### 🎈 Fun Facts:
 <ul>
